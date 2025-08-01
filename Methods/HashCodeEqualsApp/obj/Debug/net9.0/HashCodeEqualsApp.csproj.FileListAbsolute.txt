@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.sourcelink.json
+C:\Projetos\blowingc#\HashCodeEqualsApp\bin\Debug\net9.0\HashCodeEqualsApp.exe
+C:\Projetos\blowingc#\HashCodeEqualsApp\bin\Debug\net9.0\HashCodeEqualsApp.deps.json
+C:\Projetos\blowingc#\HashCodeEqualsApp\bin\Debug\net9.0\HashCodeEqualsApp.runtimeconfig.json
+C:\Projetos\blowingc#\HashCodeEqualsApp\bin\Debug\net9.0\HashCodeEqualsApp.dll
+C:\Projetos\blowingc#\HashCodeEqualsApp\bin\Debug\net9.0\HashCodeEqualsApp.pdb
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.dll
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\refint\HashCodeEqualsApp.dll
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.pdb
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\HashCodeEqualsApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\HashCodeEqualsApp\obj\Debug\net9.0\ref\HashCodeEqualsApp.dll

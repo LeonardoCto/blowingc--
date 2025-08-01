@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\AcessModificatorsApp\bin\Debug\net9.0\AcessModificatorsApp.exe
+C:\Projetos\blowingc#\AcessModificatorsApp\bin\Debug\net9.0\AcessModificatorsApp.deps.json
+C:\Projetos\blowingc#\AcessModificatorsApp\bin\Debug\net9.0\AcessModificatorsApp.runtimeconfig.json
+C:\Projetos\blowingc#\AcessModificatorsApp\bin\Debug\net9.0\AcessModificatorsApp.dll
+C:\Projetos\blowingc#\AcessModificatorsApp\bin\Debug\net9.0\AcessModificatorsApp.pdb
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.sourcelink.json
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.dll
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\refint\AcessModificatorsApp.dll
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.pdb
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\AcessModificatorsApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\AcessModificatorsApp\obj\Debug\net9.0\ref\AcessModificatorsApp.dll

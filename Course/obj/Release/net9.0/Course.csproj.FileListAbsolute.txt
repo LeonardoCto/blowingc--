@@ -1,0 +1,5 @@
+C:\Projetos\blowingc#\Course\obj\Release\net9.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\Course\obj\Release\net9.0\Course.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\Course\obj\Release\net9.0\Course.AssemblyInfo.cs
+C:\Projetos\blowingc#\Course\obj\Release\net9.0\Course.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\Course\obj\Release\net9.0\Course.sourcelink.json

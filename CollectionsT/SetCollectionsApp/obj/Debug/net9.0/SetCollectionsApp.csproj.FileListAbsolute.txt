@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\SetCollectionsApp\bin\Debug\net9.0\SetCollectionsApp.exe
+C:\Projetos\blowingc#\SetCollectionsApp\bin\Debug\net9.0\SetCollectionsApp.deps.json
+C:\Projetos\blowingc#\SetCollectionsApp\bin\Debug\net9.0\SetCollectionsApp.runtimeconfig.json
+C:\Projetos\blowingc#\SetCollectionsApp\bin\Debug\net9.0\SetCollectionsApp.dll
+C:\Projetos\blowingc#\SetCollectionsApp\bin\Debug\net9.0\SetCollectionsApp.pdb
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.sourcelink.json
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.dll
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\refint\SetCollectionsApp.dll
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.pdb
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\SetCollectionsApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\SetCollectionsApp\obj\Debug\net9.0\ref\SetCollectionsApp.dll

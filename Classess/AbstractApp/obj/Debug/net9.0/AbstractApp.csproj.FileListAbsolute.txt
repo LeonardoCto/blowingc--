@@ -1,0 +1,5 @@
+C:\Projetos\blowingc#\AbstractApp\obj\Debug\net9.0\AbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\AbstractApp\obj\Debug\net9.0\AbstractApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\AbstractApp\obj\Debug\net9.0\AbstractApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\AbstractApp\obj\Debug\net9.0\AbstractApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\AbstractApp\obj\Debug\net9.0\AbstractApp.sourcelink.json

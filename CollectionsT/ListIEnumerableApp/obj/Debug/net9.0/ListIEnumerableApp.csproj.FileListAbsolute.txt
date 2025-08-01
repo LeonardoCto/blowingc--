@@ -1,0 +1,5 @@
+C:\Projetos\blowingc#\ListIEnumerableApp\obj\Debug\net9.0\ListIEnumerableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\ListIEnumerableApp\obj\Debug\net9.0\ListIEnumerableApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\ListIEnumerableApp\obj\Debug\net9.0\ListIEnumerableApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\ListIEnumerableApp\obj\Debug\net9.0\ListIEnumerableApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\ListIEnumerableApp\obj\Debug\net9.0\ListIEnumerableApp.sourcelink.json

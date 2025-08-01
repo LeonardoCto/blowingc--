@@ -1,0 +1,5 @@
+C:\Projetos\blowingc#\ArrayListandList\obj\Debug\net9.0\ArrayListandList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\ArrayListandList\obj\Debug\net9.0\ArrayListandList.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\ArrayListandList\obj\Debug\net9.0\ArrayListandList.AssemblyInfo.cs
+C:\Projetos\blowingc#\ArrayListandList\obj\Debug\net9.0\ArrayListandList.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\ArrayListandList\obj\Debug\net9.0\ArrayListandList.sourcelink.json

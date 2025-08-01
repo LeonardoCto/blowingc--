@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\StackApp\bin\Debug\net9.0\StackApp.exe
+C:\Projetos\blowingc#\StackApp\bin\Debug\net9.0\StackApp.deps.json
+C:\Projetos\blowingc#\StackApp\bin\Debug\net9.0\StackApp.runtimeconfig.json
+C:\Projetos\blowingc#\StackApp\bin\Debug\net9.0\StackApp.dll
+C:\Projetos\blowingc#\StackApp\bin\Debug\net9.0\StackApp.pdb
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.sourcelink.json
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.dll
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\refint\StackApp.dll
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.pdb
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\StackApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\StackApp\obj\Debug\net9.0\ref\StackApp.dll

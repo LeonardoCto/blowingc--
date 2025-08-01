@@ -1,0 +1,15 @@
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\bin\Debug\net9.0\QueueApp.exe
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\bin\Debug\net9.0\QueueApp.deps.json
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\bin\Debug\net9.0\QueueApp.runtimeconfig.json
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\bin\Debug\net9.0\QueueApp.dll
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\bin\Debug\net9.0\QueueApp.pdb
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.AssemblyInfoInputs.cache
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.AssemblyInfo.cs
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.csproj.CoreCompileInputs.cache
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.sourcelink.json
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.dll
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\refint\QueueApp.dll
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.pdb
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\QueueApp.genruntimeconfig.cache
+C:\Projetos\Nova pasta\blowingc-\CollectionsT\QueueApp\obj\Debug\net9.0\ref\QueueApp.dll

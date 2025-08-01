@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\DictionaryApp\bin\Debug\net9.0\DictionaryApp.exe
+C:\Projetos\blowingc#\DictionaryApp\bin\Debug\net9.0\DictionaryApp.deps.json
+C:\Projetos\blowingc#\DictionaryApp\bin\Debug\net9.0\DictionaryApp.runtimeconfig.json
+C:\Projetos\blowingc#\DictionaryApp\bin\Debug\net9.0\DictionaryApp.dll
+C:\Projetos\blowingc#\DictionaryApp\bin\Debug\net9.0\DictionaryApp.pdb
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.sourcelink.json
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.dll
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\refint\DictionaryApp.dll
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.pdb
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\DictionaryApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\DictionaryApp\obj\Debug\net9.0\ref\DictionaryApp.dll

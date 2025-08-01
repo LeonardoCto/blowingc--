@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\ArraysApp\bin\Debug\net9.0\ArraysApp.exe
+C:\Projetos\blowingc#\ArraysApp\bin\Debug\net9.0\ArraysApp.deps.json
+C:\Projetos\blowingc#\ArraysApp\bin\Debug\net9.0\ArraysApp.runtimeconfig.json
+C:\Projetos\blowingc#\ArraysApp\bin\Debug\net9.0\ArraysApp.dll
+C:\Projetos\blowingc#\ArraysApp\bin\Debug\net9.0\ArraysApp.pdb
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.sourcelink.json
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.dll
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\refint\ArraysApp.dll
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.pdb
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ArraysApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\ArraysApp\obj\Debug\net9.0\ref\ArraysApp.dll

@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\bin\Debug\net9.0\ReadOnlyCollectionApp.exe
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\bin\Debug\net9.0\ReadOnlyCollectionApp.deps.json
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\bin\Debug\net9.0\ReadOnlyCollectionApp.runtimeconfig.json
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\bin\Debug\net9.0\ReadOnlyCollectionApp.dll
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\bin\Debug\net9.0\ReadOnlyCollectionApp.pdb
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.sourcelink.json
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.dll
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\refint\ReadOnlyCollectionApp.dll
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.pdb
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ReadOnlyCollectionApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\CollectionsT\ReadOnlyCollectionApp\obj\Debug\net9.0\ref\ReadOnlyCollectionApp.dll

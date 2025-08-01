@@ -87,7 +87,7 @@
             Array.Sort(nomes);
 
             //Finding a index on array
-            Array.BinarySearch();
+            Array.BinarySearch(nomes, 0, nomes.Length, "Leonardo");
 
             //Exercice to calculate aritmetric average
 

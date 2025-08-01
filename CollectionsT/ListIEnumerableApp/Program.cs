@@ -31,6 +31,9 @@
             var primeiroLimiteComRestrica = limiteComRestricao.FirstOrDefault();
             Console.WriteLine($"Primeiro com restrição{limiteComRestricao}");
     }
+
+internal class ListAndIENumerable
+{
         public int Numero { get; set; }
         private bool IsRestricao;
         public ListAndIENumerable()
@@ -47,3 +50,4 @@
             return IsRestricao;
         }
     }
+}

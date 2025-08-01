@@ -14,12 +14,12 @@
     //With the Generic we can compare any data Type
     string s1 = "10";
     string s2 = "10";
-    generico.Comparar(s1, s2);
+    // generico.Comparar(s1, s2);
 
 
     //Could be public class Genericss<T1,T2>
 
-    Genericss<int,int> generico1 = new Genericss<int, int> ();
+    // Genericss<int,int> generico1 = new Genericss<int, int> ();
     //so in this case we can only compare int because its declared in the class de T and in the instance the type int
     //Could be Genericss<string,int> , Genericss<double,double>, Genericss<float,float>
     public class Genericss

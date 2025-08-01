@@ -58,3 +58,11 @@
             return "Nome inválido";
         }
     }
+
+    public enum ETypeEvent
+    {
+        Concert,
+        Festival,
+        Conference,
+        Workshop
+    }

@@ -1,9 +1,11 @@
 ﻿
 
-        //The big problem of use ArrayList is the box and unboxing process that cause a big lost of performance
+//The big problem of use ArrayList is the box and unboxing process that cause a big lost of performance
 
-        //ArrayList this ungeneric class can be changed dynamically
-        ArrayList lista = new ArrayList() { "Leonardo", true, "Isabella", 9 };
+//ArrayList this ungeneric class can be changed dynamically
+using System.Collections;
+
+ArrayList lista = new ArrayList() { "Leonardo", true, "Isabella", 9 };
 
         ArrayList lista1 = new();
         lista1.Add(1); //Add an element at the final index positon of the arrayList

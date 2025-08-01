@@ -25,7 +25,7 @@ public class Departamento
         professores = new List<Professor>();
     }
 
-    public void ListaProfessores()
+    public void ListarProfessores()
     {
         Console.WriteLine($"Departamento de { Nome}");
 
@@ -35,32 +35,50 @@ public class Departamento
         }
     }
 }
-    
 
-    public class Professor {
 
-        public string Nome { get; set;}
-        public strinf Disciplina { get; set;}
+public class Professor
+{
+
+    public string Nome { get; set; }
+    public string Disciplina { get; set; }
+    public Professor(string nome, string disciplina)
+    {
+        Nome = nome;
+        Disciplina = disciplina;
     }
+}
 
 
     //Using inherance and composition together
     public class Animal {
-        public int Idade { get; set;}
+        public int Idade { get; set; }
 
-        public void Comer ();
-        public void Dormir();
+        public void Comer()
+        {
+            Console.WriteLine("Animal está comendo");
+        }
+        public void Dormir()
+        {
+            Console.WriteLine("Animal está dormindo");
+        }
 
     }
 
     public class ComportamentoAndar
     {
-        public void Andar();
+    public void Andar()
+    {
+        Console.WriteLine("Animal está andando");
+        }
     }
 
     public class ComportamentoNadar()
     {
-        public void Nadar();
+    public void Nadar()
+    {
+        Console.WriteLine("Animal está nadando");
+    }
     }
 
 
@@ -88,7 +106,7 @@ public class Departamento
     {
         private readonly ComportamentoNadar _comportamentoNadar;
 
-        public Macaco (ComportamentoNadar comportamentoNadar)
+        public Sardinha (ComportamentoNadar comportamentoNadar)
         {
             _comportamentoNadar = comportamentoNadar;
         }

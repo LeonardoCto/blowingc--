@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\Typess\DelegatesApp\bin\Debug\net9.0\DelegatesApp.exe
+C:\Projetos\blowingc#\Typess\DelegatesApp\bin\Debug\net9.0\DelegatesApp.deps.json
+C:\Projetos\blowingc#\Typess\DelegatesApp\bin\Debug\net9.0\DelegatesApp.runtimeconfig.json
+C:\Projetos\blowingc#\Typess\DelegatesApp\bin\Debug\net9.0\DelegatesApp.dll
+C:\Projetos\blowingc#\Typess\DelegatesApp\bin\Debug\net9.0\DelegatesApp.pdb
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.sourcelink.json
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.dll
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\refint\DelegatesApp.dll
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.pdb
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\DelegatesApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\Typess\DelegatesApp\obj\Debug\net9.0\ref\DelegatesApp.dll

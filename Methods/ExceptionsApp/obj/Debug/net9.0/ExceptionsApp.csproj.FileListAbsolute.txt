@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\Methods\ExceptionsApp\bin\Debug\net9.0\ExceptionsApp.exe
+C:\Projetos\blowingc#\Methods\ExceptionsApp\bin\Debug\net9.0\ExceptionsApp.deps.json
+C:\Projetos\blowingc#\Methods\ExceptionsApp\bin\Debug\net9.0\ExceptionsApp.runtimeconfig.json
+C:\Projetos\blowingc#\Methods\ExceptionsApp\bin\Debug\net9.0\ExceptionsApp.dll
+C:\Projetos\blowingc#\Methods\ExceptionsApp\bin\Debug\net9.0\ExceptionsApp.pdb
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.sourcelink.json
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.dll
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\refint\ExceptionsApp.dll
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.pdb
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ExceptionsApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\Methods\ExceptionsApp\obj\Debug\net9.0\ref\ExceptionsApp.dll

@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\bin\Debug\net9.0\AnonymousMethodsApp.exe
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\bin\Debug\net9.0\AnonymousMethodsApp.deps.json
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\bin\Debug\net9.0\AnonymousMethodsApp.runtimeconfig.json
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\bin\Debug\net9.0\AnonymousMethodsApp.dll
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\bin\Debug\net9.0\AnonymousMethodsApp.pdb
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.sourcelink.json
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.dll
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\refint\AnonymousMethodsApp.dll
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.pdb
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\AnonymousMethodsApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\Typess\AnonymousMethodsApp\obj\Debug\net9.0\ref\AnonymousMethodsApp.dll

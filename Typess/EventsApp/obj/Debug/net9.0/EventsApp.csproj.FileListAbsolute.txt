@@ -1,0 +1,15 @@
+C:\Projetos\blowingc#\Typess\EventsApp\bin\Debug\net9.0\EventsApp.exe
+C:\Projetos\blowingc#\Typess\EventsApp\bin\Debug\net9.0\EventsApp.deps.json
+C:\Projetos\blowingc#\Typess\EventsApp\bin\Debug\net9.0\EventsApp.runtimeconfig.json
+C:\Projetos\blowingc#\Typess\EventsApp\bin\Debug\net9.0\EventsApp.dll
+C:\Projetos\blowingc#\Typess\EventsApp\bin\Debug\net9.0\EventsApp.pdb
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.AssemblyInfoInputs.cache
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.AssemblyInfo.cs
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.csproj.CoreCompileInputs.cache
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.sourcelink.json
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.dll
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\refint\EventsApp.dll
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.pdb
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\EventsApp.genruntimeconfig.cache
+C:\Projetos\blowingc#\Typess\EventsApp\obj\Debug\net9.0\ref\EventsApp.dll

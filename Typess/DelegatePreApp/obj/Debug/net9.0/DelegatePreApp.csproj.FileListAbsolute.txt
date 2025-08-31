@@ -1,0 +1,15 @@
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\bin\Debug\net9.0\DelegatePreApp.exe
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\bin\Debug\net9.0\DelegatePreApp.deps.json
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\bin\Debug\net9.0\DelegatePreApp.runtimeconfig.json
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\bin\Debug\net9.0\DelegatePreApp.dll
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\bin\Debug\net9.0\DelegatePreApp.pdb
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.AssemblyInfoInputs.cache
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.AssemblyInfo.cs
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.csproj.CoreCompileInputs.cache
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.sourcelink.json
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.dll
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\refint\DelegatePreApp.dll
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.pdb
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\DelegatePreApp.genruntimeconfig.cache
+D:\Projetos\blowingc#\blowingc--\Typess\DelegatePreApp\obj\Debug\net9.0\ref\DelegatePreApp.dll

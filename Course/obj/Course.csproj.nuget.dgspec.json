@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\blowingc#\\Course\\Course.csproj": {}
+    "D:\\Projetos\\blowingc#\\blowingc--\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\blowingc#\\Course\\Course.csproj": {
+    "D:\\Projetos\\blowingc#\\blowingc--\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\blowingc#\\Course\\Course.csproj",
+        "projectUniqueName": "D:\\Projetos\\blowingc#\\blowingc--\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\Projetos\\blowingc#\\Course\\Course.csproj",
-        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\blowingc#\\Course\\obj\\",
+        "projectPath": "D:\\Projetos\\blowingc#\\blowingc--\\Course\\Course.csproj",
+        "packagesPath": "C:\\Users\\couti\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\blowingc#\\blowingc--\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\couti\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
